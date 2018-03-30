@@ -1,8 +1,4 @@
-# Yellowtail 
-
-Git email change - testing
-
-This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
+# Yellowtail Japanese Restaurant Template
 
 ## Instructions
 After cloning into repo, cd to project root directory and create a .env file. This file requires a TURBO_APP_ID and SESSION_SECRET keys:
